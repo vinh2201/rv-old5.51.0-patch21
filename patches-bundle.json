@@ -1,0 +1,7 @@
+{
+  "created_at": "2026-02-26T23:07:59",
+  "description": "# [5.51.0-dev.2](https://gitlab.com/ReVanced/revanced-patches/compare/v5.51.0-dev.1...v5.51.0-dev.2) (2026-02-26)\n\n\n### Features\n\n* **GMX Mail:** Add `Hide ads` and `Hide Premium upgrade button` patches ([#6583](https://gitlab.com/ReVanced/revanced-patches/issues/6583)) ([2976ea3](https://gitlab.com/ReVanced/revanced-patches/commit/2976ea3ddd09d26eeedf646f0a1020fa582d0ec0))\n\n\n\n",
+  "download_url": "https://github.com/vinh2201/rv-old5.51.0-patch21/releases/download/v5.51.0-dev.2/patches-5.51.0-dev.2.rvp",
+  "signature_download_url": "https://github.com/vinh2201/rv-old5.51.0-patch21/releases/download/v5.51.0-dev.2/patches-5.51.0-dev.2.rvp.asc",
+  "version": "v5.51.0-dev.2"
+}
